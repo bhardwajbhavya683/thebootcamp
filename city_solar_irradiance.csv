@@ -1,0 +1,11 @@
+City,Avg_Daily_Sunlight_Hours,Electricity_Tariff_INR,Avg_Solar_Efficiency,Avg_Annual_Temp_C
+Delhi,5.06,6.56,0.18,30.1
+Mumbai,5.93,9.41,0.16,25.7
+Bengaluru,5.6,9.0,0.16,24.7
+Chennai,5.4,7.14,0.17,33.5
+Kolkata,4.73,7.05,0.17,33.7
+Hyderabad,4.73,7.05,0.19,32.1
+Pune,4.59,7.41,0.16,27.0
+Ahmedabad,5.8,8.07,0.18,25.0
+Jaipur,5.4,7.8,0.18,30.8
+Lucknow,5.56,7.37,0.15,28.4
